@@ -1,3 +1,8 @@
+# Media
+*.png
+*.jpg
+!/media/final/*/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
