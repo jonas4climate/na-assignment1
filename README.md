@@ -1,4 +1,12 @@
-# Assignments for Numerical Algorithms
+# Numerical Algorithms practice
 
-Conventions:
-- Submission-related images go into `/media/final/hw<number>/` then they will be tracked by Git
+Theory and coding practice of the usage of various numerical schemes for 
+- solving linear systems
+- LLS
+- Rootfinding
+- Optimization
+- Interpolation
+- Integration/Differentiation
+- ODEs
+
+Submitted for **Numerical Algorithms** (2023-24) @ UvA.
